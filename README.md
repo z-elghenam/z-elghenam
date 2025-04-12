@@ -1,26 +1,18 @@
 # Hi there, I'm Zakaria Elghenam 👋
 
 ## About Me
-I'm a passionate Full Stack Developer with experience in building web applications using JavaScript, Python, and React. I love solving complex problems and working on innovative projects.
+I'm a passionate Full Stack Developer with experience in building web applications using JavaScript, and React.
 
-## Skills
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Node.js, Django
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Webpack
 
-## Projects
-### [Project One](https://github.com/)
----
+👨‍💻 About Me
+🚀 Passionate Full Stack Developer specializing in JavaScript, React, and modern web development.
+🚨 Love building responsive, performant, and user-centric web applications from concept to deployment.
 
-### [Project Two](https://github.com/)
---
+🔧 Tech Stack
+Frontend: React, Next.js, JavaScript (ES6+), HTML/CSS, TailwindCSS
 
-### [Project Three](https://github.com/)
---
+Backend: Node.js, Express
 
-## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/x)
-- [Twitter](https://twitter.com/x)
-- [Website](https://www.x.dev)
+Database: MongoDB, Firebase, Supabase
 
+Tools: Git, GitHub, Vercel, Netlify
