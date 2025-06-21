@@ -1,8 +1,10 @@
+# Hi there, I'm Zakaria Elghenam 👋
+
 # 💫 About Me:
 - ⚙️ Building backend APIs with **Node.js**, **Express**, and **MongoDB/PostgreSQL**<br>- ⚛️ Creating dynamic UIs using **React.js** (and learning **Next.js**)<br>- 📦 Working with **Redux**, **React Query**, and **Tailwind CSS**<br>- 🔐 Interested in **Web Security**, **Authentication**, and **System Design**<br>- 🔍 Currently exploring **TypeScript**, **Prisma**, and **Docker**
 
 
-## 🌐 Socials:
+## 📫 Let’s Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria elghenam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zelghenam@gmail.com) 
 
 # 💻 Tech Stack:
