@@ -62,11 +62,15 @@ const zakaria = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=z-elghenam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=z-elghenam&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=z-elghenam&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=6366f1&point=8b5cf6&area=true&area_color=6366f1" width="98%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-elghenam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="49%" />
-<img src="https://github-contributor-stats.vercel.app/api?username=z-elghenam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z-elghenam&theme=tokyonight" width="98%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z-elghenam&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z-elghenam&theme=tokyonight&utcOffset=1" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z-elghenam&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z-elghenam&theme=tokyonight" width="49%" />
 
 </div>
 
