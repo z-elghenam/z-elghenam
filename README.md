@@ -3,6 +3,11 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Zakaria%20Elghenam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Building%20Digital%20Experiences&descSize=18&descAlignY=55&descColor=e2e8f0" width="100%" />
 
+<!-- Profile Avatar -->
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/548d25ce-94b6-4c19-8ac8-6f2f0e73d30f/thumbnail" />
+</p>
+
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+Artisan+Marketplace+%F0%9F%8E%A8;Learning+React+Native+%F0%9F%93%B1;Open+to+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
