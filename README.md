@@ -1,28 +1,105 @@
-# Hi there 👋, I'm Zakaria Elghenam
+<div align="center">
 
-# 💫 About Me:
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Zakaria%20Elghenam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Building%20Digital%20Experiences&descSize=18&descAlignY=55&descColor=e2e8f0" width="100%" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://z-elghenam-portfolio.vercel.app/)**
-- 🔭 I’m currently working on `Artisan marketplace`.
-- 🌱 I’m currently learning `React Native`
-- 👯 I’m looking to collaborate for `Dev Projects`
-- 🤔 I’m looking for help with `Competitive Programming`
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-- ⚡ Fun fact: I waste most of my time playing games 😞
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+the+Artisan+Marketplace+%F0%9F%8E%A8;Learning+React+Native+%F0%9F%93%B1;Open+to+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-## 📫 Let’s Connect:
+</div>
 
-<a href="https://z-elghenam-portfolio.vercel.app" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Zakaira Elghenam.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
-<a href="www.linkedin.com/in/zakaria-elghenam" target="\_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zelghenam@gmail.com)
+---
 
-# 💻 Tech Stack:
+## 🧑‍💻 About Me
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+```typescript
+const zakaria = {
+  location: "Building cool stuff on the internet",
+  currentProject: "Artisan Marketplace",
+  learning: ["React Native", "Mobile Development"],
+  askMeAbout: ["Web Dev", "React Ecosystem", "Cloud", "DevOps"],
+  funFact: "I debug code faster than I solve math problems 😄",
+  lifePhilosophy: "Learn new tech 🔥 → Build something → Share it 🎉"
+};
+```
 
-### 📊 GitHub Stats:![](https://github-readme-stats.vercel.app/api?username=z-elghenam&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+---
 
-![](https://nirzak-streak-stats.vercel.app/?user=z-elghenam&theme=merko&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=z-elghenam&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)![](https://github-contributor-stats.vercel.app/api?username=z-elghenam&limit=5&theme=merko&combine_all_yearly_contributions=true)
+## 🛠️ Tech Stack
 
-[![Boot.dev DevOps Engineer Path certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a671978e-b0bd-474e-a139-52fe2e9a14fe.jpeg?v=1783333544)](https://www.boot.dev/certificates/a671978e-b0bd-474e-a139-52fe2e9a14fe)
+<div align="center">
+
+### Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind,redux&theme=dark" />
+</a>
+
+### Backend & Database
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,django,prisma,mongodb&theme=dark" />
+</a>
+
+### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,cpp&theme=dark" />
+</a>
+
+### Cloud & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,jenkins,git,github,gitlab&theme=dark" />
+</a>
+
+### Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vite,bun,pnpm,figma,vscode&theme=dark" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=z-elghenam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=z-elghenam&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-elghenam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="49%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=z-elghenam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" width="49%" />
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+[![Boot.dev DevOps Engineer Path](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a671978e-b0bd-474e-a139-52fe2e9a14fe.jpeg?v=1783333544)](https://www.boot.dev/certificates/a671978e-b0bd-474e-a139-52fe2e9a14fe)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://z-elghenam.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-elghenam)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zelghenam@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=z-elghenam&style=flat-square&color=8b5cf6" />
+
+*"Learn it. Build it. Ship it."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=footer" width="100%" />
