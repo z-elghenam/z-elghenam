@@ -64,14 +64,6 @@ const zakaria = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=z-elghenam&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=6366f1&point=8b5cf6&area=true&area_color=6366f1" width="98%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z-elghenam&theme=tokyonight" width="98%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z-elghenam&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z-elghenam&theme=tokyonight&utcOffset=1" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z-elghenam&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z-elghenam&theme=tokyonight" width="49%" />
-
 </div>
 
 ---
