@@ -24,3 +24,5 @@
 ### 📊 GitHub Stats:![](https://github-readme-stats.vercel.app/api?username=z-elghenam&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=z-elghenam&theme=merko&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=z-elghenam&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)![](https://github-contributor-stats.vercel.app/api?username=z-elghenam&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+[![Boot.dev DevOps Engineer Path certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a671978e-b0bd-474e-a139-52fe2e9a14fe.jpeg?v=1783333544)](https://www.boot.dev/certificates/a671978e-b0bd-474e-a139-52fe2e9a14fe)
